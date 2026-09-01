@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Automated health and playback monitor for public Invidious and Piped instances.">
+  <title>Tube Instance Watch</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main class="wrap">
+  <header>
+    <div>
+      <p class="eyebrow">AUTOMATED PUBLIC INSTANCE MONITOR</p>
+      <h1>Tube Instance Watch</h1>
+      <p class="lede">Find public Invidious and Piped instances that are not only online, but currently able to fetch YouTube playback data.</p>
+    </div>
+    <div class="updated">Last refresh<br><strong id="updated">loading…</strong></div>
+  </header>
+
+  <section class="controls">
+    <div class="tabs">
+      <button class="tab active" data-kind="all">All</button>
+      <button class="tab" data-kind="invidious">Invidious</button>
+      <button class="tab" data-kind="piped">Piped</button>
+    </div>
+    <label>Status
+      <select id="statusFilter">
+        <option value="all">All</option>
+        <option value="ready">Playback ready</option>
+        <option value="health">API only</option>
+        <option value="down">Down</option>
+      </select>
+    </label>
+    <label>Sort
+      <select id="sort">
+        <option value="score">Best first</option>
+        <option value="latency">Latency</option>
+        <option value="uptime">7-day uptime</option>
+        <option value="newest">Recently added</option>
+        <option value="name">Name</option>
+      </select>
+    </label>
+    <button id="browserTest" class="secondary">Test from my browser</button>
+  </section>
+
+  <p class="note">Automated discovery follows the upstream Invidious and TeamPiped public-instance lists. GitHub Actions measures API health, playback extraction and latency. Browser-side tests are best-effort and can be affected by CORS.</p>
+
+  <section id="summary" class="summary"></section>
+
+  <section class="panels">
+    <div>
+      <h2>Instances</h2>
+      <section id="grid" class="grid" aria-live="polite"></section>
+    </div>
+    <aside>
+      <h2>Recent changes</h2>
+      <div id="events" class="events"></div>
+    </aside>
+  </section>
+
+  <footer>
+    <p>Tube Instance Watch does not operate any listed instance or proxy user traffic.</p>
+    <p>A successful automated playback probe means the backend returned usable playback metadata for the test video at check time; it does not guarantee every video will work.</p>
+  </footer>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
