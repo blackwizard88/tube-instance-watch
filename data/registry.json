@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T22:40:32+00:00",
+  "generated_at": "2026-09-03T01:08:12+00:00",
   "instances": {
     "invidious:inv.nadeko.net": {
       "id": "invidious:inv.nadeko.net",
@@ -11,7 +11,7 @@
       "cdn": null,
       "source": "https://docs.invidious.io/instances/",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "invidious:invidious.nerdvpn.de": {
@@ -24,7 +24,7 @@
       "cdn": null,
       "source": "https://docs.invidious.io/instances/",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "invidious:yt.chocolatemoo53.com": {
@@ -37,7 +37,7 @@
       "cdn": null,
       "source": "https://docs.invidious.io/instances/",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "invidious:invidious.tiekoetter.com": {
@@ -50,7 +50,7 @@
       "cdn": null,
       "source": "https://docs.invidious.io/instances/",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "invidious:invidious.f5.si": {
@@ -63,7 +63,7 @@
       "cdn": null,
       "source": "https://docs.invidious.io/instances/",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:pipedapi.kavin.rocks": {
@@ -76,7 +76,7 @@
       "cdn": true,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:pipedapi.leptons.xyz": {
@@ -89,7 +89,7 @@
       "cdn": true,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:pipedapi.nosebs.ru": {
@@ -102,7 +102,7 @@
       "cdn": true,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:pipedapi-libre.kavin.rocks": {
@@ -115,7 +115,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:piped-api.privacy.com.de": {
@@ -128,7 +128,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:pipedapi.adminforge.de": {
@@ -141,7 +141,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:api.piped.yt": {
@@ -154,7 +154,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:pipedapi.drgns.space": {
@@ -167,7 +167,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:pipedapi.owo.si": {
@@ -180,7 +180,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:pipedapi.ducks.party": {
@@ -193,7 +193,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:piped-api.codespace.cz": {
@@ -206,7 +206,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:pipedapi.reallyaweso.me": {
@@ -219,7 +219,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:api.piped.private.coffee": {
@@ -232,7 +232,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:pipedapi.darkness.services": {
@@ -245,7 +245,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     },
     "piped:pipedapi.orangenet.cc": {
@@ -258,7 +258,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-02T22:40:32+00:00",
+      "last_seen": "2026-09-03T01:08:12+00:00",
       "listed": true
     }
   }
