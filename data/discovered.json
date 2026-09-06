@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T11:01:12+00:00",
+  "generated_at": "2026-09-06T14:12:31+00:00",
   "instances": [
     {
       "id": "invidious:inv.nadeko.net",
@@ -11,7 +11,7 @@
       "cdn": null,
       "source": "https://docs.invidious.io/instances/",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -24,7 +24,7 @@
       "cdn": null,
       "source": "https://docs.invidious.io/instances/",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -37,7 +37,7 @@
       "cdn": null,
       "source": "https://docs.invidious.io/instances/",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -50,7 +50,7 @@
       "cdn": null,
       "source": "https://docs.invidious.io/instances/",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -63,7 +63,7 @@
       "cdn": null,
       "source": "https://docs.invidious.io/instances/",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -76,7 +76,7 @@
       "cdn": true,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -89,7 +89,7 @@
       "cdn": true,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -102,7 +102,7 @@
       "cdn": true,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -115,7 +115,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -128,7 +128,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -141,7 +141,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -154,7 +154,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -167,7 +167,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -180,7 +180,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -193,7 +193,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -206,7 +206,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -219,7 +219,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -232,7 +232,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -245,7 +245,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     },
     {
@@ -258,7 +258,7 @@
       "cdn": false,
       "source": "https://raw.githubusercontent.com/TeamPiped/documentation/main/content/docs/public-instances/index.md",
       "first_seen": "2026-09-01T22:55:14+00:00",
-      "last_seen": "2026-09-06T11:01:12+00:00",
+      "last_seen": "2026-09-06T14:12:31+00:00",
       "listed": true
     }
   ]
