@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:34:52+00:00",
+  "generated_at": "2026-09-29T15:55:17+00:00",
   "events": [
     {
       "at": "2026-09-01T22:55:14+00:00",
@@ -140,6 +140,13 @@
       "id": "piped:pipedapi.orangenet.cc",
       "name": "orangenet.cc",
       "service": "piped"
+    },
+    {
+      "at": "2026-09-29T15:55:17+00:00",
+      "type": "added",
+      "id": "invidious:inv.miningtcup.me",
+      "name": "inv.miningtcup.me",
+      "service": "invidious"
     }
   ]
 }
