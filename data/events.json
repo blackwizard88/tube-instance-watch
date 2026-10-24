@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:37:36+00:00",
+  "generated_at": "2026-10-24T07:20:19+00:00",
   "events": [
     {
       "at": "2026-09-01T22:55:14+00:00",
@@ -153,6 +153,13 @@
       "type": "removed",
       "id": "invidious:inv.miningtcup.me",
       "name": "inv.miningtcup.me",
+      "service": "invidious"
+    },
+    {
+      "at": "2026-10-24T07:20:19+00:00",
+      "type": "removed",
+      "id": "invidious:invidious.f5.si",
+      "name": "invidious.f5.si",
       "service": "invidious"
     }
   ]
